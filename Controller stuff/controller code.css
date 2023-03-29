@@ -7,10 +7,6 @@
         margin-top: -285px;*/
 }
 
-.xbox.disconnected {
-    background: url(disconnected.png);
-}
-
 .xbox.disconnected div {
     display: none;
 }
